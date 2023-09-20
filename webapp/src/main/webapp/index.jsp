@@ -2,12 +2,12 @@
 <html>
 
 <head>
-	<title>GeeksforGeeks</title>
+	<title> Jenkins Demonstration </title>
 </head>
 
 <body>
 
-	<h2>Hello, Welcome to Jenkins Demo</h2>
+	<h2> Hello, Welcome to today's session </h2>
 
 </body>
 
