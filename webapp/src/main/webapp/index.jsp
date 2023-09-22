@@ -7,7 +7,7 @@
 
 <body>
 
-	<h2> Hello, Welcome to Jenkins session </h2>
+	<h2> Hello, Welcome to Jenkins Demo </h2>
 
 </body>
 
